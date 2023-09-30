@@ -1,1 +1,2 @@
 git config --global --list
+super zmiana w pliku
